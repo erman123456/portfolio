@@ -94,7 +94,7 @@ const AboutThree = () => {
                         </li>
                         <li>
                           <label>Email: </label>
-                          <span>ermansibarani9@gmail.com</span>
+                          <span>ermanjobs15@gmail.com</span>
                         </li>
                         <li>
                           <label>Github: </label>
