@@ -49,7 +49,7 @@ const SliderFive = () => {
             </div>
             {/* End .col */}
             <div className="col-md-5 order-1 order-md-2">
-              <img src="img/about/erman-bg.png" alt="about image"/>
+              <img src="img/about/erman-bg.png" alt="about-image"/>
             </div>
           </div>
         </div>

@@ -11,7 +11,7 @@ const SocialShare = [
   { Social: <FaTwitter />, link: "https://twitter.com/SibaraniErman/" },
   { Social: <FaInstagram />, link: "https://www.instagram.com/erman_sibarani/" },
   { Social: <FaLinkedinIn />, link: "https://www.linkedin.com/in/erman-sibarani-1a228b1a2/" },
-  { Social: <FaGithub />, link: "https://github.com/erman123456" },,
+  { Social: <FaGithub />, link: "https://github.com/erman123456" },
 ];
 
 const Footer = () => {
