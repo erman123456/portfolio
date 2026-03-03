@@ -8,7 +8,7 @@ import {
   FiFileText,
   FiPhoneOutgoing,
 } from "react-icons/fi";
-import { FaHome, FaBlog } from "react-icons/fa";
+import { FaHome } from "react-icons/fa";
 import useDocumentTitle from "../useDocumentTitle";
 
 const Header = () => {
